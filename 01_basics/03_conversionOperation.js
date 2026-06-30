@@ -31,8 +31,21 @@
 // "" (empty string) => false
 // "Ash" => true
 
-let somenumber= 43.89
-let StringNumber= String(somenumber)
-console.log(StringNumber);
-console.log(typeof (StringNumber));
+// let somenumber= 43.89
+// let StringNumber= String(somenumber)
+// console.log(StringNumber);
+// console.log(typeof (StringNumber));
 
+
+// ******************** Operations ********************
+
+let value =3;
+let negvalue = -value;
+console.log(negvalue);
+
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2**2);
+console.log(2/2);
+console.log(2%2);
